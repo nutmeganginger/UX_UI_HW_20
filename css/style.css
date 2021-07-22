@@ -37,6 +37,9 @@ body li {
     background-color: rgb(241, 119, 145);
 }
 
+h1 {
+    font-family: obviously-wide, sans-serif;
+}
 
 
 .projects {
