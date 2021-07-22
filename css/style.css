@@ -17,7 +17,7 @@ body li {
 }
 
 .caseStudyimg {
-    background-image: url(/../images/iPhone\ XR\ Isometric.png);
+    background-image: url(/./images/iPhone\ XR\ Isometric.png);
     background-size: cover;
     height: 300px;
 }
@@ -26,7 +26,6 @@ body li {
     font-family: obviously-wide, sans-serif;
     font-weight: 900;
     font-style: normal;
-    /* color: white; */
 }
 
 .nav-link {
