@@ -1,0 +1,61 @@
+body  {
+     font-family: 'obviously', sans-serif !important;
+}
+
+body p {
+    font-family: 'open sans', sans-serif;
+    font-weight: 600;
+    line-height: 1.8em;
+}
+
+body li {
+    font-family: 'open sans', sans-serif;
+}
+
+.navbar-brand {
+    font-weight: 700;
+}
+
+.caseStudyimg {
+    background-image: url(/images/iPhone\ XR\ Isometric.png);
+    background-size: cover;
+    height: 300px;
+}
+
+.caseStudyimg h1 {
+    font-family: obviously-wide, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    /* color: white; */
+}
+
+.nav-link {
+    color: rgb(241, 119, 145);
+}
+
+.nav-link:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(241, 119, 145);
+}
+
+
+
+.projects {
+    text-align: center;
+    font-weight: 900;
+}
+
+.intro {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.page-footer {
+    color: white;
+}
+
+.page-footer a {
+    color:pink;
+}
